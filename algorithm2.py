@@ -1,5 +1,4 @@
 handHis = []
-hand = "right"
 rightHandDis = 0
 leftHandDis = 0
 # 키패드 좌표값
