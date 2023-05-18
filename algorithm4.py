@@ -16,3 +16,5 @@ for i in list:
 
 for i in result:
     i[0] = dict.get(i[0])
+       answer.append(''.join(j for j in i))
+return answer
