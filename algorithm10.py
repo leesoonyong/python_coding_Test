@@ -1,4 +1,5 @@
 import sys
+#백준 
 n = int(sys.stdin.readline())
 
 count = 1
